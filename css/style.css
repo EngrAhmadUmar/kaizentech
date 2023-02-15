@@ -1184,13 +1184,13 @@ div#preloader {
 }
 
 .project-dec h4:hover {
-  color: #fff;
+  color: #786c34;
 }
 
 .project-dec h4 {
   color: #ddd;
   font-size: 24px;
-  margin-top: -45px;
+  margin-top: -45%;
   padding-top: 50%;
   text-decoration: none;
   text-transform: uppercase;
