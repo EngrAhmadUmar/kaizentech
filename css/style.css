@@ -1015,7 +1015,7 @@ div#preloader {
 }
 
 .work-left-text {
-  background: #3EC1D5 none repeat scroll 0 0;
+    background: #786c34 none repeat scroll 0 0;
 }
 
 .work-left-text {
@@ -1096,12 +1096,12 @@ div#preloader {
   transition: all 0.3s ease 0s;
 }
 
-.project-menu li a.active, .project-menu li a:hover {
-  border-color: #3EC1D5;
-  background: #3EC1D5;
-  color: #fff;
-  text-decoration: none;
-}
+    .project-menu li a.active, .project-menu li a:hover {
+        border-color: #786c34;
+        background: #786c34;
+        color: #fff;
+        text-decoration: none;
+    }
 
 .single-awesome-portfolio {
   float: left;
