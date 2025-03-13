@@ -80,7 +80,7 @@ img {
 
 p {
   margin: 0 0 15px;
-  color: #444;
+  color: #acada9;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -847,7 +847,7 @@ div#preloader {
 }
 
 .team-left-text p {
-  color: #fff;
+  color: #979292;
   font-size: 17px;
   line-height: 26px;
 }
@@ -1198,8 +1198,8 @@ div#preloader {
 }
 
 .project-dec span {
-  color: #ddd;
-  font-size: 13px;
+  color: #9ba146;
+  font-size: 15px;
 }
 
 .project-action-btn {
